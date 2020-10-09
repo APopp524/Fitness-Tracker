@@ -1,4 +1,6 @@
-The Fitness Tracker
+# The Fitness Tracker
+
+![License](https://img.shields.io/badge/License-MIT%20License-green?style=flat-square.svg)
 
 ## Description
 
